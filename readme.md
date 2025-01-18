@@ -1,4 +1,4 @@
-<h1 align="center"> API Support de Tickets</h1>
+<h1 align="center"> API Support Tickets</h1>
 
 <p align="center">
 Projeto feito em Node.js de um API de tickets de serviço.
